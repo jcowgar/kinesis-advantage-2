@@ -34,7 +34,8 @@ inverts the `[` and `]` keys just as invert-number-row.txt does.
 qwerty.txt
 ----------
 
-My personal base level mapping.
+My personal base level mapping. As I begin to flush this out, I'll start to
+document what I have changed from the base layout here.
 
 1_qwerty.txt
 ------------
