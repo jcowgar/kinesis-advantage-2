@@ -1,9 +1,3 @@
-*******************************************************************************
-* Invert the number row for easier programming. The idea here is that in all of
-* my analyzed source documents, I use special characters much more frequently
-* than the numbers. On top of that, typically when I do use numbers, they are
-* 0 and 1
-*******************************************************************************
 {1}>{-rshift}{1}{+rshift}
 {2}>{-rshift}{2}{+rshift}
 {3}>{-rshift}{3}{+rshift}
