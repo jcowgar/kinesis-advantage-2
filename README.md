@@ -24,8 +24,8 @@ inverse, `Shift+1` to be the actual `1`. It does this for all the numbers.
 
 A close second beind this is invert-programming-keys.txt.
 
-invert-programming-keys.txt
----------------------------------
+programming-keys.txt
+--------------------
 
 As one who programs a good deal of JavaScript code, again in my analysis, I
 found I use the cury braces much more than the square brackets. Thus, this
@@ -34,8 +34,36 @@ inverts the `[` and `]` keys just as invert-number-row.txt does.
 qwerty.txt
 ----------
 
-My personal base level mapping. As I begin to flush this out, I'll start to
-document what I have changed from the base layout here.
+My personal base level mapping.
+
+This includes invert-number-row.txt, and programming-keys.txt. In addition:
+
+* Remap the thumb cluster as I have found my right thumb was used much more
+  than my left thumb.
+	* Left thumb outer is now the space key
+	* Left thumb inner is now backspace
+	* Right thumb outer is now the enter key
+	* Right thumb inner is now the delete key
+	* Right thumb `Win` key is now another `Alt` key
+	* `Home` and `Page Up` are now `Left Shift` which allows for easier
+	  keyboard shortcuts as the `Ctrl`, `Alt` and `Shift` keys are all next to
+		each other
+* Remap the `International-\` key to be the `Win` key as I took that away on
+  the thumb cluster because I needed an `Alt` for the right hand
+* Remap `Caps` to be `Right Alt`. The thumb keys both have `Left Alt`. What this
+  does is gives me a modifier key that is not used anywhere else. Thus, I can
+	create a "fake" additional layer by pressing the `Caps` key and any key on
+	the keyboard. Keys have to be programmed as a macro.
+
+**Programming Macros**
+
+* `Caps+Enter` goes to the end of the line, then presses enter. This "opens"
+  a line below the cursor.
+* `Caps+Shift+Enter` goes up one line, to the end of the line, then presses enter.
+  This "opens" a line above the cursor.
+* `Caps+Comma` goes to the end of the line, inserts a comma, and then presses enter.
+* `Caps+Open Curly Brace` goes to the end of the line, inserts an open curly
+  brace, and then presses enter.
 
 1_qwerty.txt
 ------------
