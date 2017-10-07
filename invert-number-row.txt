@@ -1,0 +1,36 @@
+*******************************************************************************
+* Invert the number row for easier programming. The idea here is that in all of
+* my analyzed source documents, I use special characters much more frequently
+* than the numbers. On top of that, typically when I do use numbers, they are
+* 0 and 1
+*******************************************************************************
+{1}>{-rshift}{1}{+rshift}
+{2}>{-rshift}{2}{+rshift}
+{3}>{-rshift}{3}{+rshift}
+{4}>{-rshift}{4}{+rshift}
+{5}>{-rshift}{5}{+rshift}
+{6}>{-lshift}{6}{+lshift}
+{7}>{-lshift}{7}{+lshift}
+{8}>{-lshift}{8}{+lshift}
+{9}>{-lshift}{9}{+lshift}
+{0}>{-lshift}{0}{+lshift}
+{rshift}{1}>{1}
+{rshift}{2}>{2}
+{rshift}{3}>{3}
+{rshift}{4}>{4}
+{rshift}{5}>{5}
+{rshift}{6}>{6}
+{rshift}{7}>{7}
+{rshift}{8}>{8}
+{rshift}{9}>{9}
+{rshift}{0}>{0}
+{lshift}{1}>{1}
+{lshift}{2}>{2}
+{lshift}{3}>{3}
+{lshift}{4}>{4}
+{lshift}{5}>{5}
+{lshift}{6}>{6}
+{lshift}{7}>{7}
+{lshift}{8}>{8}
+{lshift}{9}>{9}
+{lshift}{0}>{0}

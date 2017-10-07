@@ -1,0 +1,4 @@
+{obrack}>{-lshift}{obrack}{+lshift}
+{cbrack}>{-lshift}{cbrack}{+lshift}
+{lshift}{obrack}>{obrack}
+{lshift}{cbrack}>{cbrack}
