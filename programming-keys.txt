@@ -2,3 +2,7 @@
 {cbrack}>{-lshift}{cbrack}{+lshift}
 {lshift}{obrack}>{obrack}
 {lshift}{cbrack}>{cbrack}
+{ralt}{space}>{ralt}{end}{enter}
+{ralt}{lshift}{space}>{up}{end}{enter}
+{ralt}{,}>{ralt}{end}{,}{enter}
+{ralt}{obrack}>{ralt}{end}{space}{-lshift}{obrack}{+lshift}{enter}
